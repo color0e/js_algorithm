@@ -1,6 +1,6 @@
-var arr = new Array();
+let arr = new Array();
 
-var fibonacci = (num)=>{
+let fibonacci = (num)=>{
     if(num<=1){
         arr[num] = num;
         return num;
