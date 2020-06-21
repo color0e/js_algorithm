@@ -25,4 +25,4 @@ let squaredSum = (number) => {
     return count;
 }
 
-console.log(squaredSum(7));
+console.log(squaredSum(11));
