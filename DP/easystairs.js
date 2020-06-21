@@ -1,4 +1,6 @@
 
+//DP적이지 않네..
+//다음기회에 DP적으로 다시짜보기
 let easyStairs = (number) => {
     let count = 0;
     if(number==1){
